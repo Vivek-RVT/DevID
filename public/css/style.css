@@ -690,6 +690,7 @@ main {
     position: absolute;
     background-color: #ffffff;
 }
+
 .form-in-d {
     gap: 20px;
     flex-direction: column;
